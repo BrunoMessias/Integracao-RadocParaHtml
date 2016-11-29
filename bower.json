@@ -1,0 +1,24 @@
+{
+  "name": "radoc-html",
+  "homepage": "https://github.com/BrunoMessias/Integracao-RadocParaHtml",
+  "authors": [
+    "TiagoDamascena <tiagobdamascena@gmail.com>",
+    "Bruno Messias <brunodsm@gmail.com>"
+  ],
+  "description": "Converte um Radoc em forma de Json para HTML",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap": "latest",
+    "mustache": "latest"
+  }
+}
