@@ -2,16 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Radoc to HTML</title>
+    <title>HTML Radoc</title>
+    <link rel="stylesheet" href="../../../bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css">
     <link href="css/app.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-    <div id="relatorio">
+    <div class="container">
+        <div class="row cabecalho-radoc" id="cabecalho">
+            <div class="col-md-2">
+                <img src="img/SICAD.png">
+            </div>
+            <div class="col-md-8">
+                <p>UNIVERSIDADE FEDERAL DE GOIÁS</p>
+                <p>SISTEMA DE CADASTRO DE ATIVIDADES DOCENTES</p>
+                <p>EXTRATO DAS ATIVIDADES - ANO BASE: <span id="ano-base"></span></p>
+            </div>
+            <div class="col-md-2">
+                <img src="img/UFG.png">
+            </div>
+        </div>
+        <div id="relatorio">
 
+        </div>
     </div>
 
     <script src="../../../bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="../../../bower_components/mustache/mustache.min.js"></script>
+    <script src="../../../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="js/radoc-builder.js"></script>
 </body>
 </html>

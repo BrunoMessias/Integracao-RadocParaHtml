@@ -1,0 +1,244 @@
+{
+  "id":"1",
+  "anoBase":"2015",
+  "relatos": [{
+    "classe": "Dados do docente",
+    "atributos": {
+      "Nome": "JULIANO LOPES DE OLIVEIRA",
+      "Matrícula SIAPE": "1220405",
+      "Unidade": "INSTITUTO DE INFORMÁTICA",
+      "Titulação": "Doutor",
+      "Regime de trabalho": "40",
+      "Classe": "Titular",
+      "Nível": "001",
+      "CH contratada": "1760",
+      "CH executada": "1840",
+      "E-mail": "juliano@inf.ufg.br",
+      "Data ingresso na UFG": "25/03/1997",
+      "Data ingresso serviço no público": "25/03/1997"  
+    }
+  }, {
+    "classe": "Atividades de orientação",
+    "atributos": {
+      "Título do trabalho": "IMPLANTAÇÃO DE PROCESSOS DO COBIT EM PEQUENA OU MÉDIA EMPRESA",
+      "Tabela": "Aluno orientado em projeto de final de curso",
+      "Orientando": "FARID IBRAIM CHAUD JUNIOR",
+      "Matrícula": "100358",
+      "Função do docente": "Orientador",
+      "Nível": "Graduação",
+      "Curso": "SISTEMAS DE INFORMAÇÃO",
+      "IES": "UNIVERSIDADE FEDERAL DE GOIAS",
+      "CHA": "1",
+      "Data início": "03/08/2015",
+      "Data término": "31/12/2015",
+      "Tipo Orientação": "PRESENCIAL"
+    }
+  }, {
+    "classe": "Atividades de orientação",
+    "atributos": {
+      "Título do trabalho": "ESTUDO DE CASO: PLANEJAMENTO DE IMPLANTAÇÃO DE PROCESSOS ITIL EM UMA MICROEMPRESA BRASILEIRA",
+      "Tabela": "Aluno orientado em projeto de final de curso",
+      "Orientando": "Ariel Souza Silva",
+      "Matrícula": "100353",
+      "Função do docente": "Orientador",
+      "Nível": "Graduação",
+      "Curso": "Sistemas de Informação",
+      "IES": "UNIVERSIDADE FEDERAL DE GOIAS",
+      "CHA": "1",
+      "Data início": "01/01/2015",
+      "Data término": "31/07/2015",
+      "Tipo Orientação": "PRESENCIAL"
+     } 
+    }, {
+    "classe": "Atividades de orientação",
+    "atributos": {
+      "Título do trabalho": "DEFINIÇÃO E MELHORIA DOS PROCESSOS DA FÁBRICA DE SOFTWARE DO INF - CATÁLOGO DE DIRETRIZES PARA A DEFINIÇÃO DE PROCESSOS",
+      "Tabela": "Aluno orientado em projeto de final de curso",
+      "Orientando": "DEBORAH SANTANA ULACIA",
+      "Matrícula": "110977",
+      "Função do docente": "Orientador",
+      "Nível": "Graduação",
+      "Curso": "CIÊNCIAS DA COMPUTAÇÃO",
+      "IES": "UNIVERSIDADE FEDERAL DE GOIAS",
+      "CHA": "1",
+      "Data início": "01/01/2015",
+      "Data término": "31/07/2015",
+      "Tipo Orientação": "PRESENCIAL"
+     }
+    }, {
+    "classe": "Atividades em projetos",
+    "atributos": {
+      "Título do Projeto": "Simpósio Brasileiro de Sistemas de Informação",
+      "Tabela": "Participante de projeto de extensão/cultura cadastrado na PROEC",
+      "Unidade Responsável": "INF - Instituto de Informática",
+      "Tipo": "Projeto de Extensão",
+      "Situação": "Concluído",
+      "Função": "Participante",
+      "Financiado": "Sim",
+      "CHA": "100",
+      "Data Início": "30/06/2014",
+      "Data Término": "15/07/2015"
+     }
+    }, {
+    "classe": "Atividades em projetos",
+    "atributos": {
+      "Título do Projeto": "Museu de Ciência da UFG",
+      "Tabela": "Participante de projeto de extensão/cultura cadastrado na PROEC",
+      "Unidade Responsável": "PROEC - Pró-Reitoria de Extensão e Cultura",
+      "Tipo": "Projeto de Extensão",
+      "Situação": "Em andamento",
+      "Função": "Participante",
+      "Financiado": "Não",
+      "CHA": "80",
+      "Data Início": "01/01/2015 ",
+      "Data Término": "10/12/2015"
+     }
+    }, {
+    "classe": "Atividades em projetos",
+    "atributos": {
+      "Título do Projeto": "ESTRATÉGIAS E MÉTODOS PARA MELHORIA DE SOFTWARE",
+      "Tabela": "Coordenador de projeto de pesquisa aprovado sem financiamento",
+      "Unidade Responsável": "INF - Instituto de Informática",
+      "Tipo": "Projeto de Pesquisa",
+      "Situação": "Concluído",
+      "Função": "Coordenador",
+      "Financiado": "Não",
+      "CHA": "304",
+      "Data Início": "04/01/2010",
+      "Data Término": "31/12/2015"
+      }
+     },{
+    "classe": "Atividades de extensão",
+    "atributos": {
+      "Tabela": "Palestrante, conferencista ou participante em mesa redonda em evento científico, cultural ou artístico - Evento regional ou local",
+      "CHA": "2",
+      "Data Início": "26/11/2015",
+      "Data Término": "26/11/2015",
+      "Descrição da atividade": "Palestra ministrada: Uma certificação para a qualidade de produto de software brasileiro",
+      "Descrição da clientela": "Participantes da XV JGES"
+     }
+    }, {
+    "classe": "Atividades de extensão",
+    "atributos": {
+      "Tabela": "Promoção ou produção de eventos artísticos e científicos nacionais - Presidente",
+      "CHA": "20",
+      "Data Início": "01/03/2015",
+      "Data Término": "01/06/2015",
+      "Descrição da atividade": "Presidente da Trilha de BPM do SBSI",
+      "Descrição da clientela": "Profissionais e estudantes da área de BPM"
+     }
+    }, {
+    "classe": "Atividades de extensão",
+    "atributos": {
+      "Tabela": "Palestrante, conferencista ou participante em mesa redonda em evento científico, cultural ou artístico - Evento regional ou local",
+      "CHA": "10",
+      "Data Início": "07/05/2015",
+      "Data Término": "08/05/2015",
+      "Descrição da atividade": "Palestra ministrada: Casos de certificação de produtos de software e preferência em licitações. A visão de um Avaliador CERTICS",
+      "Descrição da clientela": "Participantes do III Workshop de Engenharia de Software da UFMS"
+     }
+    }, {
+    "classe": "Atividades de extensão",
+    "atributos": {
+      "Tabela": " Promoção ou produção de eventos artísticos e científicos nacionais - Comissão organizadora",
+      "CHA": "20",
+      "Data Início": "26/05/2015",
+      "Data Término": "29/05/2015",
+      "Descrição da atividade": "SBSI 2015",
+      "Descrição da clientela": "Profissionais e estudantes de SI"
+     }
+    }, {
+    "classe": "Atividades de qualificação",
+    "atributos":{
+      "Tabela": " Participação em Congressos, Seminários, Encontros, Jornadas etc.",
+      "Descrição da atividade": "Jornada Goiana em Engenharia de Software - Goiânia-GO",
+      "CHA": "4",
+      "Data Início": "26/11/2015",
+      "Data Término": "26/11/2015"
+     }
+    }, {
+    "classe": "Atividades de qualificação",
+    "atributos":{
+      "Tabela": " Participação em Congressos, Seminários, Encontros, Jornadas etc.",
+      "Descrição da atividade": " III Workshop de Engenharia de Software da UFMS - Campo Grande-MS",
+      "CHA": "16",
+      "Data Início": "07/05/2015",
+      "Data Término": "08/05/2015"
+     }
+    }, {
+    "classe": "Atividades de qualificação",
+    "atributos":{
+      "Tabela": "  Simpósio Brasileiro de Sistemas de Informação - Goiânia-GO",
+      "Descrição da atividade": " III Workshop de Engenharia de Software da UFMS - Campo Grande-MS",
+      "CHA": "24",
+      "Data Início": "26/05/2015",
+      "Data Término": "29/05/2015"
+     }
+    }, {
+    "classe": "Atividades acadêmicas especiais",
+    "atributos":{
+      "Tabela": "Membro de banca de concurso para docente efetivo na instituição",
+      "CHA": "20",
+      "Data Início": "01/09/2015",
+      "Data Término": "31/12/2015",
+      "Descrição da Complementar": "Presidente da Banca",
+      "Descrição da Clientela": "Concurso para Mestre 20 h em SI"
+     }
+    }, {
+    "classe": "Atividades acadêmicas especiais",
+    "atributos":{
+      "Tabela": "Membro de banca de concurso para docente efetivo na instituição",
+      "CHA": "20",
+      "Data Início": "01/09/2015",
+      "Data Término": "31/12/2015",
+      "Descrição da Complementar": "Presidente da Banca",
+      "Descrição da Clientela": "Concurso para Doutor DE em SI"
+    }
+    }, {
+    "classe": "Atividades acadêmicas especiais",
+    "atributos":{
+      "Tabela": "Membro de banca de defesa de tese de doutorado em outra instituição",
+      "CHA": "30",
+      "Data Início": "02/03/2015",
+      "Data Término": "12/03/2015",
+      "Descrição da Complementar": "CIN-UFPE",
+      "Descrição da Clientela": "Candidato: Paulino Wagner Palheta Viana \n Orientador: Alexandre Marcos Lins de Vasconcelos"
+     }
+    }, {
+    "classe": "Atividades administrativas",
+    "atributos":{
+      "Tabela": "Atividades acadêmicas e administrativas designadas por portaria do Reitor, Pró-Reitor ou Diretor de Unidade Acadêmica com carga horária >=150 horas",
+      "Descriçao":"Membro do Núcleo Docente Estruturante (NDE) do curso de Engenharia de Software",
+      "Orgão Emissor":"INF/UFG",
+      "Orgão Servido":"INF",
+      "Portaria":"019/2010",
+      "CHA": "150",
+      "Data Início": " 01/01/2015",
+      "Data Término": "31/12/2015"
+     }
+    }, {
+    "classe": "Atividades administrativas",
+    "atributos":{
+      "Tabela": "Membros da CPPD ou da Comissão de Avaliação Institucional ou da Comissão Própria de Avaliação ou da CA",
+      "Descriçao":"PRESIDENTE DA COMISSÃO DE AVALIAÇÃO DOCENTE - CAD - PARA TRATAR PRIORITARIAMENTE DOS PROCESSOS DE PROMOÇÃO À CLASSE D",
+      "Orgão Emissor":"INF/UFG",
+      "Orgão Servido":"INF",
+      "Portaria":"005/2014",
+      "CHA": "120",
+      "Data Início": "01/01/2015",
+      "Data Término": "31/12/2015"
+     }
+    }, {
+    "classe": "Atividades administrativas",
+    "atributos":{
+      "Tabela": "Outras Atividades Administrativas e de Representação",
+      "Descriçao":"PARTICIPAÇÕES EM REUNIÕES DO CD 2015",
+      "Orgão Emissor":"INF",
+      "Orgão Servido":"INF",
+      "Portaria":"NA",
+      "CHA": "9",
+      "Data Início": "01/01/2015",
+      "Data Término": "30/04/2015"
+    }
+  }]
+}
