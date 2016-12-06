@@ -2,22 +2,6 @@
   "id":"1",
   "anoBase":"2015",
   "relatos": [{
-    "classe": "Dados do docente",
-    "atributos": {
-      "Nome": "JULIANO LOPES DE OLIVEIRA",
-      "Matrícula SIAPE": "1220405",
-      "Unidade": "INSTITUTO DE INFORMÁTICA",
-      "Titulação": "Doutor",
-      "Regime de trabalho": "40",
-      "Classe": "Titular",
-      "Nível": "001",
-      "CH contratada": "1760",
-      "CH executada": "1840",
-      "E-mail": "juliano@inf.ufg.br",
-      "Data ingresso na UFG": "25/03/1997",
-      "Data ingresso serviço no público": "25/03/1997"  
-    }
-  }, {
     "classe": "Atividades de orientação",
     "atributos": {
       "Título do trabalho": "IMPLANTAÇÃO DE PROCESSOS DO COBIT EM PEQUENA OU MÉDIA EMPRESA",
@@ -128,6 +112,22 @@
       "Descrição da clientela": "Profissionais e estudantes da área de BPM"
      }
     }, {
+    "classe": "Dados do docente",
+    "atributos": {
+      "Nome": "JULIANO LOPES DE OLIVEIRA",
+      "Matrícula SIAPE": "1220405",
+      "Unidade": "INSTITUTO DE INFORMÁTICA",
+      "Titulação": "Doutor",
+      "Regime de trabalho": "40",
+      "Classe": "Titular",
+      "Nível": "001",
+      "CH contratada": "1760",
+      "CH executada": "1840",
+      "E-mail": "juliano@inf.ufg.br",
+      "Data ingresso na UFG": "25/03/1997",
+      "Data ingresso serviço no público": "25/03/1997"
+     }
+    }, {
     "classe": "Atividades de extensão",
     "atributos": {
       "Tabela": "Palestrante, conferencista ou participante em mesa redonda em evento científico, cultural ou artístico - Evento regional ou local",
@@ -202,7 +202,7 @@
       "Data Início": "02/03/2015",
       "Data Término": "12/03/2015",
       "Descrição da Complementar": "CIN-UFPE",
-      "Descrição da Clientela": "Candidato: Paulino Wagner Palheta Viana \n Orientador: Alexandre Marcos Lins de Vasconcelos"
+      "Descrição da Clientela": "Candidato: Paulino Wagner Palheta Viana\nOrientador: Alexandre Marcos Lins de Vasconcelos"
      }
     }, {
     "classe": "Atividades administrativas",
