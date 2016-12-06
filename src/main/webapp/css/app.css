@@ -32,6 +32,7 @@
     margin-top: 2px;
     padding: 0px;
     border: 1px solid black;
+    width: 100%;
 }
 
 .conteudo-relato a {
@@ -41,6 +42,18 @@
     border: 1px solid black;
 }
 
-.key-atributo {
+.atributo {
+    border: 1px solid black;
+}
+
+.atributo-key {
     background-color: #daeaff;
+    text-align: right;
+    padding: 2px;
+    border-right: 1px solid black;
+}
+
+.atributo-value {
+    text-align: left;
+    padding: 2px;
 }
